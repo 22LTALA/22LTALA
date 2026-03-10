@@ -1,18 +1,12 @@
 <h1 align="left">
   &nbsp; <img src="https://github.com/user-attachments/assets/993b585a-47b8-41aa-ab4a-8fac8116f132" width="60" height="60" align="absmiddle">
-  <span style="vertical-align: absmiddle;">&nbsp; Hello there!</span>
+  <span style="vertical-align: absmiddle;">&nbsp; Hello there</span>
 </h1>
-<img align="center" src="https://github.com/user-attachments/assets/c2aa2361-0f8b-44df-a203-4299122012ac" alt="LinkedIn" width="100%" />
-<img align="center" src="https://github.com/user-attachments/assets/8ff029da-bddb-4ef6-9abd-bfa93aa83e2e" alt="LinkedIn" width="100%" />
-<img align="center" src="https://github.com/user-attachments/assets/67b732ab-b104-4e5b-946d-38bc3dda8738" alt="LinkedIn" width="100%" />
-<img align="center" src="https://github.com/user-attachments/assets/bd0bbd64-23e7-4615-8f73-5abd5b1a8860" alt="LinkedIn" width="100%" />
-<p align="center">
-![FilmTuningGIFbyClubdoAuto-ezgif com-added-text(1)]()
-
-
-
+<img align="center" src="https://github.com/user-attachments/assets/b83ed865-0b4f-4949-acd0-d7e019f082f7" alt="LinkedIn" width="100%" />
+https://github.com/user-attachments/assets/c2aa2361-0f8b-44df-a203-4299122012ac
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Kasiruse&fontSize=70" />
+
 </p>
  <p align="center">
 
