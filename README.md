@@ -24,6 +24,8 @@ Beyond writing code, I enjoy blending technology with creativity by designing 3D
 ## ⚙️ My Mindset
 I am a highly persistent problem-solver. Whether it's debugging complex Assembly code, earning top grades in my university courses, or crafting 3D designs, I approach every challenge with dedication, patience, and a strong drive for excellence. I am currently looking for opportunities to apply my academic knowledge to real-world projects.
 
+<br>
+
 ## Skills & Tools
 ### Programming Languages
 
@@ -40,7 +42,29 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 
 
 ### Operating Systems
-### Other
+<p align="left">
+  &emsp; &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/linux.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Win2.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Arch_Linux.png" alt="Email" height="60" width="60" /></a> &emsp;
+  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/CachyOS.png" alt="Email" height="60" width="60" /></a> &emsp;
+  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Mac.png" alt="Email" height="60" width="60" /></a> &emsp;
+
+</p>
+
+### Other Tools
+<p align="left">
+  &emsp; &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c4d.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/microsoft-office.webp" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Win2.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Arch_Linux.png" alt="Email" height="60" width="60" /></a> &emsp;
+  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/CachyOS.png" alt="Email" height="60" width="60" /></a> &emsp;
+  <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/Mac.png" alt="Email" height="60" width="60" /></a> &emsp;
+
+</p>
+
+<br>
 
 ## Spoken Languages
 * 🇩🇪 **German:** Fluent (C2)
