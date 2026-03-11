@@ -12,6 +12,11 @@
 ## About me
 I am an Informatik (Computer Science) student at TU Berlin with a lifelong passion for technology. My coding journey started in my childhood with C++ and C#, and today, I am focused on building a rock-solid foundation in software engineering. With top academic records in Java, C, and MIPS Assembly, I thrive on understanding how systems work from the ground up, from low-level hardware interactions to high-level application logic.
 
+## Current Focus
+Expanding my foundational Computer Science knowledge at TU Berlin.
+
+## Exploring Next
+I have a deep fascination for the cyber world and am highly motivated to dive deep into Cybersecurity and Artificial Intelligence.
 <br>
 
 <p align="center">
