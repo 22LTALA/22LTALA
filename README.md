@@ -24,8 +24,15 @@ Beyond writing code, I enjoy blending technology with creativity by designing 3D
 ## ⚙️ My Mindset
 I am a highly persistent problem-solver. Whether it's debugging complex Assembly code, earning top grades in my university courses, or crafting 3D designs, I approach every challenge with dedication, patience, and a strong drive for excellence. I am currently looking for opportunities to apply my academic knowledge to real-world projects.
 
-## Tech Stack & Tools
+## Skills & Tools
 ### Programming Languages
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kasiruse-undefined-6282863a7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/LinkedIn.png" alt="" height="50" width="50" /></a>
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/gmail.png" alt="Email" height="60" width="60" /></a>
+</p>
+
+
 ### Operating Systems
 ### Other
 
