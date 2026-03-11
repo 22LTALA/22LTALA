@@ -21,10 +21,22 @@ I have a deep fascination for the cyber world and am highly motivated to dive de
 ## 🎨 Creative Edge
 Beyond writing code, I enjoy blending technology with creativity by designing 3D models and animations in Cinema 4D.
 
-## ⚙️ My Mindset:
+## ⚙️ My Mindset
 I am a highly persistent problem-solver. Whether it's debugging complex Assembly code, earning top grades in my university courses, or crafting 3D designs, I approach every challenge with dedication, patience, and a strong drive for excellence. I am currently looking for opportunities to apply my academic knowledge to real-world projects.
 
+## Tech Stack & Tools
+### Programming Languages
+### Operating Systems
+### Other
+
+## Spoken Languages
+* 🇩🇪 **German:** Fluent (C2)
+* 🇬🇧 **English:** Intermediate (B2)
+* 🇮🇷 **Persian:** Native
+
 <br>
+
+## 📫 Let's Connect!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kasiruse-undefined-6282863a7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/LinkedIn.png" alt="LinkedIn" height="50" width="50" /></a>
