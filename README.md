@@ -1,10 +1,10 @@
 <h1 align="left">
-  &nbsp; <a><img src="./images/earth.gif" alt="Earthgif" width="45" height="45" align="absmiddle" /></a>
+  &nbsp; <a href="https://github.com/kasiruse"><img src="./images/earth.gif" alt="Earthgif" width="45" height="45" align="absmiddle" /></a>
   <span style="vertical-align: absmiddle;">&nbsp; Hello there</span>
 </h1>
 
 <div align="center">
-<a><img src="./images/WelcomeText.gif" alt="WelcomeText" width="100%" /></a>
+<a href="https://github.com/Kasiruse"><img src="./images/WelcomeText.gif" alt="WelcomeText" width="100%" /></a>
 </div>
 
 <br>
