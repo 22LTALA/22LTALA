@@ -30,12 +30,12 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 ### Programming Languages
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kasiruse-undefined-6282863a7" target="_blank"><img align="center" src="./images/c.png" alt="" height="60" width="60" /></a>  &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/c++.png" alt="Email" height="60" width="60" /></a>  &emsp;  &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/c-sharp.png" alt="Email" height="60" width="60" /></a>  &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/java.png" alt="Email" height="60" width="60" /></a>  &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/html.png" alt="Email" height="60" width="60" /></a> &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/bash.png" alt="Email" height="60" width="60" /></a> &emsp; &emsp;
+<a href="https://www.linkedin.com/in/kasiruse-undefined-6282863a7" target="_blank"><img align="center" src="./images/c.png" alt="" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/c++.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/c-sharp.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/java.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/html.png" alt="Email" height="60" width="60" /></a> &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/bash.png" alt="Email" height="60" width="60" /></a> &emsp;
 <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/cpu.png" alt="Email" height="60" width="60" /></a>
 </p>
 
@@ -43,16 +43,16 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
 ### Operating Systems
 
 <p align="center">
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/linux.png" alt="Email" height="60" width="60" /></a>  &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/win.png" alt="Email" height="60" width="60" /></a>  &emsp; &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/linux.png" alt="Email" height="60" width="60" /></a>  &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/win.png" alt="Email" height="60" width="60" /></a>  &emsp;
 <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/android.png" alt="Email" height="60" width="60" /></a>
 </p>
 
 ### Other Tools
 
 <p align="center">
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/git.png" alt="Email" height="60" width="60" /></a> &emsp; &emsp;
-<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/nvim.png" alt="Email" height="60" width="60" /></a>  &emsp; &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/git.png" alt="Email" height="60" width="60" /></a> &emsp;
+<a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/nvim.png" alt="Email" height="60" width="60" /></a>  &emsp;
 <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kasiruse/kasiruse/main/images/c4d.png" alt="Email" height="60" width="60" /></a>
 </p>
 
