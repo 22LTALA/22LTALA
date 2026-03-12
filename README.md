@@ -71,6 +71,6 @@ I am a highly persistent problem-solver. Whether it's debugging complex Assembly
    &emsp; &emsp;
 <a href="mailto:arsiyadds114@gmail.com" target="_blank"><img align="center" src="./images/gmail.png" alt="Email" height="55" width="55" /></a>
   &emsp;
-<a href="https://www.linkedin.com/in/kasiruse-undefined-6282863a7" target="_blank"><img align="center" src="./images/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/kasiruse" target="_blank"><img align="center" src="./images/linkedin.png" alt="LinkedIn" height="50" width="50" /></a>
 </p>
 
